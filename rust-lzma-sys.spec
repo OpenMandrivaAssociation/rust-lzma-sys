@@ -5,8 +5,8 @@
 %global crate lzma-sys
 
 Name:           rust-%{crate}
-Version:        0.1.15
-Release:        2%{?dist}
+Version:        0.1.20
+Release:        1%{?dist}
 Summary:        Raw bindings to liblzma
 
 # Upstream license specification: MIT/Apache-2.0
